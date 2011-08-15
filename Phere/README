@@ -1,0 +1,10 @@
+Sick of the lacklustre templates for C++ development in Xcode4?
+
+
+Usage:
+
+cd ~/Library/Developer/Xcode/Templates
+git clone git://github.com/rowanj/Xcode4-CPP-Templates.git
+
+
+They should now show up when you create a new file from Xcode
