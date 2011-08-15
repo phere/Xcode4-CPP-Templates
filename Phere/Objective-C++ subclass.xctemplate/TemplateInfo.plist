@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Default</key>
+			<string>BaseClass</string>
+			<key>Description</key>
+			<string>C++ class to inherit from</string>
+			<key>Identifier</key>
+			<string>baseClass</string>
+			<key>Name</key>
+			<string>Inherits from</string>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+	</array>
+	<key>AllowedTypes</key>
+	<array>
+		<string>public.objective-c-plus-plus-source</string>
+	</array>
+	<key>DefaultCompletionName</key>
+	<string>ClassName</string>
+	<key>Description</key>
+	<string>A C++ subclass class in an Objective-C++ file</string>
+	<key>Kind</key>
+	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+	<key>MainTemplateFile</key>
+	<string>___FILEBASENAME___.mm</string>
+	<key>Summary</key>
+	<string>A C++ subclass for Objective-C++ projects</string>
+</dict>
+</plist>
