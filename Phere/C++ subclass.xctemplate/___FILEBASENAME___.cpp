@@ -17,7 +17,7 @@
 // static code and helpers
 
 //-----------------------------------------------------------------------------
-// ___FILEBASENAMEASIDENTIFIER__
+// ___FILEBASENAMEASIDENTIFIER___
 ___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___() :
 	___VARIABLE_baseClass___()
 {}
