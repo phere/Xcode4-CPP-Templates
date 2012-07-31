@@ -6,7 +6,7 @@ Usage
 
 Clone the repository:
 
-    git clone git://github.com/phere/Xcode4-CPP-Templates.git Phere
+    git clone git://github.com/phere/Xcode4-CPP-Templates.git
 
 Move or copy the `Phere` directory into `~/Library/Developer/Xcode/Templates`
 
