@@ -18,8 +18,8 @@
 
 //-----------------------------------------------------------------------------
 // ___FILEBASENAMEASIDENTIFIER___ class implementation
-___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___() :
-	___VARIABLE_baseClass___()
+___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___()
+: ___VARIABLE_baseClass___()
 {}
 
 ___FILEBASENAMEASIDENTIFIER___::~___FILEBASENAMEASIDENTIFIER___()
