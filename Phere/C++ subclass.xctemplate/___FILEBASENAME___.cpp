@@ -15,6 +15,13 @@
 
 //-----------------------------------------------------------------------------
 // static code and helpers
+// an 'unnamed-namespace' (7.3.1.1) isolates code to this file
+namespace
+{
+	// constants
+
+	// helper functions and classes
+}
 
 //-----------------------------------------------------------------------------
 // ___FILEBASENAMEASIDENTIFIER___ class implementation
@@ -24,4 +31,3 @@ ___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___()
 
 ___FILEBASENAMEASIDENTIFIER___::~___FILEBASENAMEASIDENTIFIER___()
 {}
-
